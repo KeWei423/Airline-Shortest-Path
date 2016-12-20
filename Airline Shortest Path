@@ -1,0 +1,5 @@
+Using Dijkstra's Algorithm to find the shortest path between any two airport. 
+Example:
+  Leave LAX (Los Angeles) on American Airways after flying 2,500 miles
+  Change planes at ANT (Atlanta) to American Airlines and fly 1,000 miles
+  Arrive at MiA (Miami)
